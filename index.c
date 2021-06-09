@@ -29,7 +29,7 @@ int main(){
 
     standard_deviation = sqrt(variance);
 
-    printf("The variance of this array is: %.2f", variance);
+    printf("The variance of the array is: %.2f", variance);
     printf("\nThe standard deviation is: %.2f", standard_deviation);
 
     return 0;
