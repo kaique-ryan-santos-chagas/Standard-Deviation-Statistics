@@ -4,7 +4,7 @@
  
  <br>
 
-<p align="center">
+<p style="text-align: center">
   <h1>Statistics Standard Deviation</h1>
 </p>
 
