@@ -5,7 +5,7 @@
  <br>
 
 <p style="text-align: center">
-  <h1>Statistics Standard Deviation</h1>
+  Statistics Standard Deviation
 </p>
 
 ## {...} Problem (Portuguese language)
