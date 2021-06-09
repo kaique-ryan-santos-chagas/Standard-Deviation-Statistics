@@ -4,9 +4,9 @@
  
  <br>
 
-<p style="text-align: center">
-  Statistics Standard Deviation
-</p>
+<center>
+  <h1>Statistics Standard Deviation</h1>
+ </center>
 
 ## {...} Problem (Portuguese language)
 <img src="https://user-images.githubusercontent.com/59677362/121275985-2ec84280-c8a4-11eb-9581-31a835b1c816.png" />
