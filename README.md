@@ -4,7 +4,7 @@
  
  <br>
 
-  ->**Statistics Standard Deviation**<-
+  # Statistics Standard Deviation
 
 
 ## {...} Problem (Portuguese language)
