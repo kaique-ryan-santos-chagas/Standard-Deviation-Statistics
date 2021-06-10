@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7d/9b/1d/7d9b1d662b28cd365b33a01a3d0288e1.gif" width=150 />
-</p>
- 
- <br>
 
-  # Statistics Standard Deviation
+# <img src="https://i.pinimg.com/originals/7d/9b/1d/7d9b1d662b28cd365b33a01a3d0288e1.gif" width=150 /> Statistics Standard Deviation
 
 
 ## {...} Problem (Portuguese language)
