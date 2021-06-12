@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://cdn2.iconfinder.com/data/icons/material-line/1024/exit-512.png" width=40 /> Inputs
+## <img src="https://cdn2.iconfinder.com/data/icons/material-line/1024/exit-512.png" width=10 /> Inputs
 
 * ### _number_ variable type: float;
 * ### _vector_ variable type: float array.
