@@ -16,5 +16,10 @@
 
 * ### Theme: Statistics and data structure
 
+<br>
+
 ## Inputs
+
+* ### _number_ variable type: float;
+* ### _vector_ variable type: float array.
 
