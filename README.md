@@ -14,3 +14,5 @@
   <h2>Part 1 - My computer science studies</h2>
 </p>
 
+### Statistics and data structure
+
