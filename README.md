@@ -27,14 +27,14 @@
 
 ## Outputs
 
-### * __standard deviation__: float variable;
-### * __variance__: float variable.
+* ### __standard deviation__: float variable;
+* ### __variance__: float variable.
 
 <br>
 
 ## How to solve this problem? 
 
-### * First get inputs to calculate the array average.
+* ### First get inputs to calculate the array average.
 
 ```C
 #define VECTOR_LENGTH 10
