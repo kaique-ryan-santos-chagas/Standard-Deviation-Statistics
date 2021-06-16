@@ -19,8 +19,10 @@
 <br>
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.NLfZDZdeXO2HbxJhPLyB5wHaE8?pid=ImgDet&w=1400&h=934&rs=1" width=500 />
+  <img src="https://th.bing.com/th/id/OIP.NLfZDZdeXO2HbxJhPLyB5wHaE8?pid=ImgDet&w=1400&h=934&rs=1" width=800 />
 </p>
+
+### <p align="center">First we need a little inspiration <img src="https://th.bing.com/th/id/OIP.sGGuppeChVrigifEPxdvdQHaHa?w=214&h=214&c=7&o=5&pid=1.7" width=20 /> </p>
 
 ## <img src="https://cdn2.iconfinder.com/data/icons/material-line/1024/exit-512.png" width=20 /> Inputs
 
