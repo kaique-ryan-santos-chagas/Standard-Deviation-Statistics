@@ -7,6 +7,11 @@
 
 <br>
 
+<img src="https://i.pinimg.com/736x/4c/9b/4e/4c9b4e0b19960481e821f1baf5aee0d0.jpg" width=100 />
+### First we need a little inspiration haha
+
+<br>
+
 ## {...} Problem (Portuguese language)
 <img src="https://user-images.githubusercontent.com/59677362/121275985-2ec84280-c8a4-11eb-9581-31a835b1c816.png" />
 
