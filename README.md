@@ -62,5 +62,13 @@ int main(){
 
 * ### Now we calculate the array average using _for_ loop
 
+```C
+for(int count = 0; count <= 9; count++){
+        plus = plus + vector[count];
+    }
+
+    average = plus / (sizeof(vector) / sizeof(float));
+```
+
 
 
