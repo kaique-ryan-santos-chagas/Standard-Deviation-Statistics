@@ -37,5 +37,5 @@ int main(){
         scanf("%f", &number);
         vector[count] = number;
     }
-```cpp
+```js
 
