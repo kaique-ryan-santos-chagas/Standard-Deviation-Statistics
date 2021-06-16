@@ -70,5 +70,7 @@ for(int count = 0; count <= 9; count++){
  average = plus / (sizeof(vector) / sizeof(float));
 ```
 
+<br>
 
+* ### To get the Standard Deviation we need to find the array variance throught _for_ loop 
 
