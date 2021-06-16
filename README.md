@@ -65,9 +65,9 @@ int main(){
 ```C
 for(int count = 0; count <= 9; count++){
         plus = plus + vector[count];
-    }
+}
 
-    average = plus / (sizeof(vector) / sizeof(float));
+ average = plus / (sizeof(vector) / sizeof(float));
 ```
 
 
