@@ -25,7 +25,7 @@
 
 <br>
 
-## <img src="https://th.bing.com/th/id/OIP.kDv_Lx41hEfjb4i7Cq4VcgHaHa?w=195&h=195&c=7&o=5&pid=1.7" width=30 /> Outputs
+## <img src="https://th.bing.com/th/id/OIP.kDv_Lx41hEfjb4i7Cq4VcgHaHa?w=195&h=195&c=7&o=5&pid=1.7" width=25 /> Outputs
 
 * ### __standard deviation__: float variable;
 * ### __variance__: float variable.
