@@ -58,3 +58,9 @@ int main(){
     }
 ```
 
+<br>
+
+* ### Now we calculate the array average using __for__ loop
+
+
+
