@@ -7,14 +7,6 @@
 
 <br>
 
-### <p align="center">
-  <img src="https://i.pinimg.com/736x/4c/9b/4e/4c9b4e0b19960481e821f1baf5aee0d0.jpg" width=500 />
-  First we need a little inspiration haha
-</p>
- 
-
-<br>
-
 ## {...} Problem (Portuguese language)
 <img src="https://user-images.githubusercontent.com/59677362/121275985-2ec84280-c8a4-11eb-9581-31a835b1c816.png" />
 
@@ -25,6 +17,10 @@
 * ### Theme: Statistics and data structure
 
 <br>
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.NLfZDZdeXO2HbxJhPLyB5wHaE8?pid=ImgDet&w=1400&h=934&rs=1" width=500 />
+</p>
 
 ## <img src="https://cdn2.iconfinder.com/data/icons/material-line/1024/exit-512.png" width=20 /> Inputs
 
