@@ -23,7 +23,7 @@
 * ### _number_ variable type: float;
 * ### _vector_ variable type: float array.
 
-```
+```C
 #define VECTOR_LENGTH 10
 
 int main(){
@@ -37,5 +37,5 @@ int main(){
         scanf("%f", &number);
         vector[count] = number;
     }
-```js
+```
 
