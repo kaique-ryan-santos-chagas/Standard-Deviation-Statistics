@@ -23,3 +23,18 @@
 * ### _number_ variable type: float;
 * ### _vector_ variable type: float array.
 
+```#define VECTOR_LENGTH 10
+
+int main(){
+    
+    float vector[VECTOR_LENGTH], number, average, plus, standard_deviation, variance;
+
+    plus = 0;
+
+    for(int count = 0; count <= 9; count++){
+        printf("Type a value: ");
+        scanf("%f", &number);
+        vector[count] = number;
+    }
+```c
+
