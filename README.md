@@ -84,7 +84,7 @@ for(int count = 0; count <= 9; count++){
 
 <br>
 
-* ### Perfect! Now we just need calculate the standard deviation throught sqrt() function and show the outputs to user.
+* ### Perfect! Now we just need to calculate the standard deviation throught sqrt() function and show the outputs to user.
 
 ```C
 standard_deviation = sqrt(variance);
