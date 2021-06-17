@@ -22,7 +22,7 @@
   <img src="https://th.bing.com/th/id/OIP.NLfZDZdeXO2HbxJhPLyB5wHaE8?pid=ImgDet&w=1400&h=934&rs=1" width=800 />
 </p>
 
-### <p align="center">First we need a little inspiration <img src="https://th.bing.com/th/id/OIP.t59uauM4ayv0wM92PEVI2gHaHa?w=205&h=205&c=7&o=5&pid=1.7" width=35 /> </p>
+### <p align="center">First we need a little inspiration <img src="https://th.bing.com/th/id/OIP.nqgPbF3Ft36fTWvsoliXwwHaHa?w=168&h=180&c=7&o=5&pid=1.7" width=35 /> </p>
 
 ## <img src="https://cdn2.iconfinder.com/data/icons/material-line/1024/exit-512.png" width=20 /> Inputs
 
