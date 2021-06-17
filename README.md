@@ -60,7 +60,7 @@ int main(){
 
 <br>
 
-* ### Now we calculate the array average using _for_ loop
+* ### Now we calculate the array average using _for_ loop.
 
 ```C
 for(int count = 0; count <= 9; count++){
@@ -72,7 +72,7 @@ for(int count = 0; count <= 9; count++){
 
 <br>
 
-* ### To get the Standard Deviation we need to find the array variance throught _for_ loop 
+* ### To get the Standard Deviation we need to find the array variance throught _for_ loop.
 
 ```C
  variance = 0;
@@ -84,7 +84,7 @@ for(int count = 0; count <= 9; count++){
 
 <br>
 
-* ### Perfect! Now we just need calculate the standard deviation throught sqrt() function and show the outputs to user
+* ### Perfect! Now we just need calculate the standard deviation throught sqrt() function and show the outputs to user.
 
 ```C
 standard_deviation = sqrt(variance);
