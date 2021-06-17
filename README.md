@@ -85,3 +85,17 @@ for(int count = 0; count <= 9; count++){
 <br>
 
 * ### Perfect! Now we just need calculate the standard deviation throught sqrt() function and show the outputs to user
+
+```C
+standard_deviation = sqrt(variance);
+
+    printf("The variance of the array is: %.2f", variance);
+    printf("\nThe standard deviation is: %.2f", standard_deviation);
+
+    return 0;
+}
+```
+
+<br>
+
+## Thanks for read this readme, thats was my solution to standard deviation problem for my computer science studies.
