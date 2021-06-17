@@ -98,4 +98,4 @@ standard_deviation = sqrt(variance);
 
 <br>
 
-## <img src="https://th.bing.com/th/id/OIP.OFBoMEG2ILTcmtvm44RfcgHaHa?w=220&h=220&c=7&o=5&pid=1.7" width=30/> Thanks for read this readme, thats was my solution to standard deviation problem for my computer science studies.
+## <img src="https://th.bing.com/th/id/OIP.OFBoMEG2ILTcmtvm44RfcgHaHa?w=220&h=220&c=7&o=5&pid=1.7" width=30/> >> Thanks for read this readme, thats was my solution to standard deviation problem for my computer science studies.
