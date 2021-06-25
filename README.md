@@ -14,7 +14,7 @@
   <h2>Part 1 - My computer science studies</h2>
 </p>
 
-* ### Theme: Statistics and data structure
+* ### Subject: Statistics and data structure
 
 <br>
 
